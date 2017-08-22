@@ -1,7 +1,7 @@
 gem 'minitest', '>= 5.0.0'
 require 'minitest/pride'
 require 'minitest/autorun'
-require_relative 'leap'
+require_relative 'pipes-Mariana-leap'
 
 
 # This Date class can be safely ignored.
